@@ -36,7 +36,7 @@ __ScreenShots__
 ![screenshot from 2018-12-13 22-21-06](https://user-images.githubusercontent.com/34310411/49954134-c643b900-ff25-11e8-8aa7-76065453b0dd.png)
 
 
-3. Plot of the variation of loss during the Learning of the Classifier.
+3. Plot of the variation of loss Vs Epochs during the Learning of the Classifier.
 
 
 ![screenshot from 2018-12-13 22-14-19](https://user-images.githubusercontent.com/34310411/49953632-8c25e780-ff24-11e8-9d5e-83745a2443a6.png)
